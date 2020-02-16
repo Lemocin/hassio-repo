@@ -1,6 +1,6 @@
 {
   "name": "IDE",
-  "version": "2.2.1",
+  "version": "ide",
   "slug": "ide",
   "description": "Advanced IDE for Home Assistant, based on Cloud9 IDE",
   "url": "https://github.com/lemocin/addon-ide",
